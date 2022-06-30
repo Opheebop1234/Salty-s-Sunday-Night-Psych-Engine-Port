@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		["Order Up", "parents", [160, 209, 255]],
+		["Rush Hour", "parents", [160, 209, 255]],
+		["Freedom", "monster", [160, 209, 255]]
 	],
 
 	"weekCharacters": [
-		"parents-christmas",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "christmas",
+	"weekBackground": "",
 
-	"storyName": "RED SNOW",
+	"storyName": "Dinner Date",
 	"weekBefore": "week4",
 	"weekName": "Week 5",
 	"startUnlocked": true,

@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+		["Indie Star", "mom", [252, 150, 215]],
+		["Rising Star", "mom", [252, 150, 215]],
+		["Superstar", "mom", [252, 150, 215]]
 	],
 	
 	"weekCharacters": [
-		"mom",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
+	"weekBackground": "",
 
-	"storyName": "MOMMY MUST MURDER",
+	"storyName": "Mom's Love",
 	"weekBefore": "week3",
 	"weekName": "Week 4",
 	"startUnlocked": true,

@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		["Buckets", "senpai-pixel", [255, 120, 191]],
+		["Logarithms", "senpai-pixel", [255, 120, 191]],
+		["Terminal", "spirit-pixel", [255, 120, 191]]
 	],
 
 	"weekCharacters": [
-		"senpai",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "school",
+	"weekBackground": "",
 
-	"storyName": "hating simulator ft. moawling",
+	"storyName": "Glitch Out",
 	"weekBefore": "week5",
 	"weekName": "Week 6",
 	"startUnlocked": true,

@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		["Protect", "pico", [148, 22, 83]],
+		["Defend", "pico", [148, 22, 83]],
+		["Safeguard", "pico", [148, 22, 83]]
 	],
 
 	"weekCharacters": [
-		"pico",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
+	"weekBackground": "",
 
-	"storyName": "PICO",
+	"storyName": "Sister Complex",
 	"weekBefore": "week2",
 	"weekName": "Week 3",
 	"startUnlocked": true,

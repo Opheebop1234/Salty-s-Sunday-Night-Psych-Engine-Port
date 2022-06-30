@@ -1,6 +1,6 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Best Girl", "gf", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
@@ -8,9 +8,9 @@
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "",
 
-	"storyName": "",
+	"storyName": "Ft. Itsumi",
 	"weekBefore": "tutorial",
 	"weekName": "Tutorial",
 	"startUnlocked": true,
