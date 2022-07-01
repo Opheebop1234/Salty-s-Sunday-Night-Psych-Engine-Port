@@ -1,0 +1,44 @@
+{
+	"storyName": "Sister Complex Unsalted",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Locked On",
+			"pico",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Sights On You",
+			"pico",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Fanfire",
+			"pico",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3 Unsalted"
+}
