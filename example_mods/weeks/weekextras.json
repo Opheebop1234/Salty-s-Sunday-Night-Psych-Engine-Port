@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Bee-ware",
+			"bee",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Extra Songs",
+	"weekName": "Extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week3unsalted",
+	"startUnlocked": true
+}

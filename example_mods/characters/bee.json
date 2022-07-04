@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cynthia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cynthia Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cynthia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cynthia Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cynthia Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Cynthia Idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-100
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Cynthia Down"
+		},
+		{
+			"offsets": [
+				100,
+				50
+			],
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Cynthia Left"
+		},
+		{
+			"offsets": [
+				-100,
+				-50
+			],
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Cynthia Right"
+		},
+		{
+			"offsets": [
+				50,
+				100
+			],
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Cynthia Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cynthia",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bee",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

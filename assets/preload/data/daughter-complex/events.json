@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				32000,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					],
+					[
+						"Dadbattle Spotlight",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Dadbattle Spotlight",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}
