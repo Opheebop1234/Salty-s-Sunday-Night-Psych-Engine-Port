@@ -1,9 +1,9 @@
 {
-	"storyName": "Sister Complex Unsalted",
+	"storyName": "Dad Jokes Unsalted",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "week2unsalted",
+	"weekBefore": "tutorialunsalted",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -12,33 +12,25 @@
 	],
 	"songs": [
 		[
-			"Locked On",
-			"pico",
+			"Daddys Girl Unsalted",
+			"dad",
 			[
-				0,
-				0,
+				255,
+				255,
 				255
 			]
 		],
 		[
-			"Sights On You",
-			"pico",
+			"Salty Love Unsalted",
+			"gf",
 			[
-				0,
-				0,
-				255
-			]
-		],
-		[
-			"Fanfire",
-			"pico",
-			[
-				0,
-				0,
+				255,
+				255,
 				255
 			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "Week 3 Unsalted"
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 1 Unsalted"
 }

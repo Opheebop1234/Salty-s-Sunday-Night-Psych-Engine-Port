@@ -1,0 +1,35 @@
+{
+	"storyName": "Sweet N' Sour Unsalted",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1unsalted",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf-black-haired-salty",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sweet n Spooky Unsalted",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Sour n Scary Unsalted",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2 Unsalted"
+}
